@@ -1,0 +1,31 @@
+
+    body {
+        /*background: url(../img/bg.png) repeat scroll left top #e7ebf2;*/
+    }
+    body {
+      font-size: 15px !important;
+    }
+    .img-thumbnail {
+      width:100px;
+      height:80px;
+    }
+    #sidebar-main {
+      background-color: #111;
+    }
+    .navbar {
+      background-color: #111;
+    }
+    ul {
+      background-color: #111;
+    }
+    #img-cute {
+      width: 60px;
+
+    }
+    .logo {
+      color: white !important;
+
+    }
+    .navbar {
+      border-bottom: solid 5px green;
+    }
